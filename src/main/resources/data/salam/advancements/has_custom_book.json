@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "tutorialmod:my_custom_book"
+    },
+    "title": {
+      "translate": "advancement.tutorialmod.has_custom_book.title",
+      "fallback": "Оружейник"
+    },
+    "description": {
+      "translate": "advancement.tutorialmod.has_custom_book.description",
+      "fallback": "Получи особую книгу, чтобы узнать секрет оружия"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "minecraft:story/iron_tools",
+  "criteria": {
+    "has_book": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["tutorialmod:my_custom_book"] }
+        ]
+      }
+    }
+  },
+  "requirements": [["has_book"]],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:pistol",
+      "tutorialmod:bullet"
+    ]
+  }
+}

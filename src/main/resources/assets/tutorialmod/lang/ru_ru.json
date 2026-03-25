@@ -1,0 +1,16 @@
+{
+  "item.tutorialmod.my_custom_book": "Книга",
+  "item.tutorialmod.listik1": "Первое стихотворение",
+  "item.tutorialmod.listik2": "Второе стихотворение",
+  "item.tutorialmod.listik3": "Третье стихотворение",
+  "item.tutorialmod.listik4": "Четвертое стихотворение",
+  "item.tutorialmod.listik5": "Пятое стихотворение",
+  "item.tutorialmod.listik6": "Шестое стихотворение",
+  "item.tutorialmod.listik7": "Седьмое стихотворение",
+  "item.tutorialmod.listik8": "Восьмое стихотворение",
+
+
+  "itemgroup.listiks": "Произведения",
+  "item.tutorialmod.pistol": "Кленовый дуэльный пистолет калибра 12 мм французской фирмы",
+  "item.tutorialmod.bullet": "Патроны"
+}

@@ -1,0 +1,15 @@
+{
+  "item.tutorialmod.my_custom_book": "Book",
+  "item.tutorialmod.listik1": "Poem",
+  "item.tutorialmod.listik2": "Poem2",
+  "item.tutorialmod.listik3": "Poem3",
+  "item.tutorialmod.listik4": "Poem4",
+  "item.tutorialmod.listik5": "Poem5",
+  "item.tutorialmod.listik6": "Poem6",
+  "item.tutorialmod.listik7": "Poem7",
+  "item.tutorialmod.listik8": "Poem8",
+
+  "itemgroup.listiks": "Listik Group",
+  "item.tutorialmod.pistol": "Gun",
+  "item.tutorialmod.bullet": "Bullet"
+}

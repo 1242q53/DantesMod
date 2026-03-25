@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "!@#",
+    "$*%",
+    "^&S"
+  ],
+  "key": {
+    "*": {
+      "item": "minecraft:book"
+    },
+    "!": {
+      "item": "tutorialmod:listik1"
+    },
+    "@": {
+      "item": "tutorialmod:listik2"
+    },
+    "#": {
+      "item": "tutorialmod:listik3"
+    },
+    "$": {
+      "item": "tutorialmod:listik4"
+    },
+    "%": {
+      "item": "tutorialmod:listik5"
+    },
+    "^": {
+      "item": "tutorialmod:listik6"
+    },
+    "&": {
+      "item": "tutorialmod:listik7"
+    },
+    "S": {
+      "item": "tutorialmod:listik8"
+    }
+  },
+  "result": {
+    "item": "tutorialmod:my_custom_book"
+  }
+}

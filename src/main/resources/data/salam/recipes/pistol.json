@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "!*!",
+    "***",
+    "!*!"
+  ],
+  "key": {
+    "*": { "item": "minecraft:iron_ingot" },
+    "!": { "item": "tutorialmod:bullet" }
+  },
+  "result": {
+    "item": "tutorialmod:pistol",
+    "count": 1
+  },
+  "show_notification": true
+}
